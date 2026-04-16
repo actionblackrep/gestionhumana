@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "NOMBRES Y APELLIDOS": "ANDREA",
+    "CEDULA": "1274384",
+    "TELÉFONO": "8347643",
+    "DIRECCIÓN": "calle 1234",
+    "CIUDAD": "medellin",
+    "SEXO": "Femenino",
+    "CORREO ELECTRÓNICO PERSONAL": "j@j.com",
+    "CORREO ELECTRÓNICO CORPORATIVO": "",
+    "SEDE": "",
+    "CARGO": "Asesor comercial",
+    "ÁREA": "",
+    "NIVEL DEL CARGO": "",
+    "FECHA DE INGRESO": "2026-04-16",
+    "TIPO DE CONTRATO": "Vinculado",
+    "FECHA DE VENCIMIENTO DE CONTRATO": "",
+    "ALERTA": "",
+    "ESTADO TRABAJADOR": "Activo",
+    "FECHA DE NACIMIENTO": "2000-01-01",
+    "CUMPLEAÑOS": "01/01",
+    "ENCUESTA DE SEGUIMIENTO": "",
+    "FINALIZACIÓN PP": "",
+    "EPS": "",
+    "ARL": "",
+    "PENSIONES": "",
+    "CAJA DE COMPENSACIÓN": "",
+    "FECHA ULTIMO EXAMEN MEDICO": "",
+    "PRÓXIMO EXAMEN MEDICO": "",
+    "VIGENCIA EXAMEN MEDICO": "",
+    "CESANTÍAS": "",
+    "PERSONA DE CONTACTO": "alejandra",
+    "# DE TELÉFONO": "38974943",
+    "PARENTESCO": "hija"
+  }
+]
